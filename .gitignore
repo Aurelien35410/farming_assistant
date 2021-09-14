@@ -32,5 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-!**/src/main/java/ressources/application.properties
+### Sensitive Data ###
+src/main/java/ressources/application.properties
 
